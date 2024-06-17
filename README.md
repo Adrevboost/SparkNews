@@ -17,7 +17,7 @@ SparkNews is committed to delivering the latest news and updates across various 
 
 ## Contributors
 
-- [@YourGitHubUsername](https://github.com/YourGitHubUsername)
+- [@adrevboost](https://github.com/adrevboost)
 
 Feel free to contribute to our project by submitting pull requests or reporting issues.
 
